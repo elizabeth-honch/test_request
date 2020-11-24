@@ -1,6 +1,5 @@
 # User list
  - [DEMO LINK HERE](https://elizabeth-honch.github.io/test_request/)
- - [DEMO LINK](https://elizabeth-honch.github.io/test_request/)
 
 
 ## Available Scripts
