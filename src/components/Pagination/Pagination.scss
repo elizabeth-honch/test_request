@@ -1,0 +1,9 @@
+.pagination {
+  &__list {
+    display: flex;
+  }
+
+  &__item {
+    list-style-type: none;
+  }
+}
